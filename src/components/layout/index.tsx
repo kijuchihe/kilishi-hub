@@ -1,17 +1,17 @@
 "use client";
 
-import { useRouter } from "next/router";
+import { usePathname } from "next/navigation";
+import Navbar from "./Navbar";
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
-  const router = useRouter();
-  const { pathname } = router;
+  const pathname = usePathname();
 
   const showNavAndFooter = !["/signin", "/signup"].includes(pathname);
   return (
     <div>
       {showNavAndFooter && (
         <>
-          <nav></nav>
+          <Navbar />
           <main>{children}</main>
           <div></div>
         </>
