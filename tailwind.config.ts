@@ -18,6 +18,7 @@ const config: Config = {
       reddish: "#D92A2B",
       dark: {
         nav: "#1A1A1A",
+        primary: "#0c0c0c",
       },
       ...colors,
     },

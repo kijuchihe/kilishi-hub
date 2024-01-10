@@ -2,9 +2,9 @@ import Section from "../common/Section";
 
 const Featured = () => {
   return (
-    <Section>
-      <h3>Shop Now</h3>
-      <h2 className="text-reddish">Featured Products</h2>
+    <Section className="text-dark-primary">
+      <h3 className="text-center">Shop Now</h3>
+      <h2 className="text-reddish text-center text-3xl">Featured Products</h2>
       {/* Products */}
       <div></div>
     </Section>

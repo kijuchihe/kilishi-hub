@@ -1,5 +1,5 @@
-const Section = ({ children }: { children: React.ReactNode }) => {
-  return <section className="h-screen">{children}</section>;
+const Section = ({ children, className }: React.HTMLProps<HTMLDivElement>) => {
+  return <section className={`h-screen ${className}`}>{children}</section>;
 };
 
 export default Section;
