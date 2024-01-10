@@ -22,11 +22,6 @@ const Navbar = () => {
           <Link href={"/cart"}>Cart(0)</Link>
         </li>
       </ul>
-      Welcome To The Largest Kilishi Hub In Nigeria
-      <br />
-      Indulge in bold flavors of our premium spiced cow meat
-      <br />
-      Order nowr
       <br />
       <br />
       shop now
