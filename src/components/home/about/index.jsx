@@ -1,7 +1,10 @@
-import React from "react";
-
-const index = () => {
-  return <div>index</div>;
+import Section from "@/components/common/section";
+const About = () => {
+  return (
+    <Section>
+      <div>This is good</div>
+    </Section>
+  );
 };
 
-export default index;
+export default About;

@@ -1,4 +1,4 @@
-import Section from "../../common/Section";
+import Section from "@/components/common/Section";
 
 const Featured = () => {
   return (
