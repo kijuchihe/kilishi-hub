@@ -1,12 +1,13 @@
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
-  text: string;
+  // text: string;
   variant: "outlined" | "filled";
 }
 
 const Button: React.FC<ButtonProps> = ({
   className,
   variant = "filled",
-  text,
+  // text,
+  children,
   ...rest
 }) => {
   return (
@@ -18,7 +19,7 @@ const Button: React.FC<ButtonProps> = ({
       } ${className} w-fit`}
       {...rest}
     >
-      {text}
+      {children}
     </button>
   );
 };
