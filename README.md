@@ -59,4 +59,4 @@ npm start
 
 4. **Deploy to Hosting Platform:** Deploy the built application to platforms like Vercel, Netlify, or your own server.
 
-Enjoy the Kilishi shopping experience at Kilishi Hub! If you encounter any issues or have questions, feel free to open an issue.
+Enjoy the Kilishi shopping experience at Kilishi Hub!
