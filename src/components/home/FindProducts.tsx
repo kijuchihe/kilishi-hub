@@ -8,7 +8,7 @@ const FindProducts = () => {
         <div className="w-full md:w-[45%] border h-[45%]">
           <h3></h3>
           <p className="text-base">
-            Celebrate WINS often. Business is tough, so celebrating wins no
+            Celebrate WINS often frrr. Business is tough, so celebrating wins no
             matter how small allows you to stay motivated. Not only that, but
             when you have a team, this is a greate way to bring morale.
           </p>
@@ -20,7 +20,7 @@ const FindProducts = () => {
                 className="bg-transparent outline-none border-none flex-1"
               />
             </form>
-            <button></button>
+            <button>Arrow</button>
           </div>
         </div>
         <div className="w-full md:w-[45%] border h-[45%]">
