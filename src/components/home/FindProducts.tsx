@@ -20,7 +20,7 @@ const FindProducts = () => {
                 className="bg-transparent outline-none border-none flex-1"
               />
             </form>
-            <button>Arrow</button>
+            <button>-></button>
           </div>
         </div>
         <div className="w-full md:w-[45%] border h-[45%]">
