@@ -6,7 +6,7 @@ const Section = ({ children, className, h }: SectionProps) => {
     <section
       className={`${
         h ? h : "min-h-screen"
-      } bg-dark-300 text-white px-4 md:px-4 lg:px-20 xl:px-20 py-0 ${className}`}
+      } bg-dark-300 text-gray-100 px-4 md:px-4 lg:px-20 xl:px-20 py-0 ${className}`}
     >
       {children}
     </section>

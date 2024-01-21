@@ -3,8 +3,8 @@ import Section from "@/components/common/Section";
 
 const Featured = () => {
   return (
-    <Section className="">
-      <div className="bg-dark-100 text-gray-100 py-8">
+    <Section h="h-fit">
+      <div className="bg-dark-100 text-gray-100 py-8 h-full">
         <h3 className="text-center text-reddish text-3xl">Shop Now</h3>
         <h2 className="text-center text-5xl py-4">Featured Products</h2>
         {/* Products */}

@@ -3,8 +3,8 @@ import Section from "@/components/common/Section";
 
 const About = () => {
   return (
-    <Section className="" h="h-fit">
-      <div className="flex flex-col md:flex-row gap-4 justify-center md:items-center h-full border md:px-8 bg-dark-100">
+    <Section h="h-fit">
+      <div className="flex flex-col md:flex-row gap-4 justify-center md:items-center border md:px-8 bg-dark-100">
         <div className="flex flex-col w-[100%] md:w-[50%] gap-8">
           <h2 className="text-reddish text-4xl ">About</h2>
           <h3 className="text-4xl">
