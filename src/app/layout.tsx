@@ -16,7 +16,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className="font-sans">
+    <html lang="en" className="font-sans overflow-x-hidden">
       <body>
         <Providers>{children}</Providers>
       </body>
