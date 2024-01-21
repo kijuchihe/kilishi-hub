@@ -3,8 +3,8 @@ import Section from "../common/Section";
 
 const Testimonials = () => {
   return (
-    <Section className="bg-dark-100 text-white py-16 " h="h-fit">
-      <div className="flex flex-col gap-8">
+    <Section h="h-fit">
+      <div className="flex flex-col gap-8 bg-dark-100 text-white py-16 ">
         <h3 className="text-center text-3xl font-bold text-gray-300">
           Our customers think we are{" "}
           <span className="text-reddish">EXCELLENT</span>
