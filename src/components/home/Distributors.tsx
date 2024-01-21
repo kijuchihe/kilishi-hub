@@ -4,8 +4,8 @@ import Button from "../common/Button";
 
 const Distributors = () => {
   return (
-    <Section h="h-fit" className="bg-dark-100 py-12 text-white">
-      <div className="flex flex-col items-center gap-8">
+    <Section h="h-fit" className="">
+      <div className="flex flex-col items-center gap-8 bg-dark-100 py-12 text-white">
         <h3 className="text-3xl">Meet our team of Distributors</h3>
         <p className="text-sm w-[50%] lg:w-[60%] font-light text-center">
           My efforts have resulted in significant growth for my clients. From

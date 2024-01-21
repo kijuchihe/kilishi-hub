@@ -3,19 +3,21 @@ import Section from "@/components/common/Section";
 
 const Featured = () => {
   return (
-    <Section className="bg-dark-100 text-gray-100 py-8">
-      <h3 className="text-center text-reddish text-3xl">Shop Now</h3>
-      <h2 className="text-center text-5xl py-4">Featured Products</h2>
-      {/* Products */}
-      <div className="flex  gap-20 justify-center">
-        <ProductCard />
-        <ProductCard />
-        <ProductCard />
-      </div>
-      <div className="flex w-full items-center justify-center py-8">
-        <Button type="button" variant="filled">
-          View All
-        </Button>
+    <Section className="">
+      <div className="bg-dark-100 text-gray-100 py-8">
+        <h3 className="text-center text-reddish text-3xl">Shop Now</h3>
+        <h2 className="text-center text-5xl py-4">Featured Products</h2>
+        {/* Products */}
+        <div className="flex  gap-20 justify-center">
+          <ProductCard />
+          <ProductCard />
+          <ProductCard />
+        </div>
+        <div className="flex w-full items-center justify-center py-8">
+          <Button type="button" variant="filled">
+            View All
+          </Button>
+        </div>
       </div>
     </Section>
   );
