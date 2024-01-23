@@ -13,7 +13,7 @@ const Distributors = () => {
           $70m in funcding & sales, over 5 million active users/customers and
           over 30 million impressions across multiple campaigns
         </p>
-        <div></div>
+        <div>Carousel for distributors</div>
         <div>
           <Button variant="filled">Become a Distributor</Button>
         </div>
