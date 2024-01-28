@@ -15,7 +15,7 @@ const FindProducts = () => {
           </p>
           <div className="flex flex-col xl:flex-row gap-2 w-full">
             <form className="flex rounded-full bg-white py-2 flex-1">
-              <button type="button">S</button>
+              <button type="button">SI</button>
               <input
                 type="text"
                 className="bg-transparent text-black outline-none border-none flex-1 px-2 py-1"
