@@ -26,7 +26,7 @@ const FindProducts = () => {
           </div>
         </div>
         <div className="w-full md:w-[45%] border h-[45%] rounded-xl">
-          <img src="/hero-bg.png" alt="" className="rounded-xl w-full h-full" />
+          <img src="/hero-bg.png" alt="" className="rounded-xl w-full h-full content-cover" />
         </div>
         <div className="w-full md:w-[45%] border h-[45%] rounded-xl">
           <img src="/hero-bg.png" alt="" className="rounded-xl w-full h-full" />
