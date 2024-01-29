@@ -13,7 +13,7 @@ const Hero = () => {
             Indulge in bold flavors of our premium spiced cow meat
           </p>
           <button className="p-2 border border-white rounded-md w-fit">
-            Order Now
+            Order Now ->
           </button>
         </div>
       </div>
