@@ -10,7 +10,7 @@ const Hero = () => {
             <span className="text-reddish">Kilishi Hub</span> In Nigeria
           </p>
           <p className="text-center text-5xl ">
-            Indulge in bold flavors of our premium spiced cow meat
+            Indulge in bold flavors of our premium spiced cow meats
           </p>
           <button className="p-2 border border-white rounded-md w-fit">
             Order Now ->
