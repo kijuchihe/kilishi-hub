@@ -8,7 +8,7 @@ const Distributors = () => {
       <div className="flex flex-col items-center gap-8 bg-dark-100 py-12 text-white">
         <h3 className="text-3xl">Meet our team of Distributors</h3>
         <p className="text-sm w-[80%] lg:w-[60%] font-light text-center">
-          My efforts have resulted in significant growth for my clients. From
+          My efforts have  in significant growth for my clients. From
           2020- 2023. I led and participated in campaigns that produced over
           $70m in funcding & sales, over 5 million active users/customers and
           over 30 million impressions across multiple campaigns
