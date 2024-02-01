@@ -8,7 +8,7 @@ const About = () => {
         <div className="flex flex-col w-[100%] md:w-[50%] gap-8">
           <h2 className="text-reddish text-4xl ">About</h2>
           <h3 className="text-4xl">
-            We produce, package and sell the Spiciest Cow meat
+            We produce, package and sell the Spiciest Kilishi (Cow meat)
           </h3>
           <p className="text-base">
             Celebrate WINS often. Business is tough, so celebrating wins no
