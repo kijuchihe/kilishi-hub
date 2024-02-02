@@ -11,7 +11,7 @@ const Distributors = () => {
           My efforts have  in significant growth for my clients. From
           2020- 2023. I led and participated in campaigns that produced over
           $70m in funcding & sales, over 5 million active users/customers and
-          over 30 million impressions across multiple campaigns
+          over 30 million "been too busy with school" to code impressions across multiple campaigns
         </p>
         <div>
           <div></div>Carousel for distributors
