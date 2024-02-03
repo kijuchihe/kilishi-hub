@@ -2,6 +2,8 @@
 
 Welcome to Kilishi Hub, your premier destination for purchasing the finest Kilishi! This full-stack Next.js website is designed to provide a seamless and delightful shopping experience for Kilishi enthusiasts.
 
+Really feeling unmotivated
+
 ## Features
 
 - **Product Listings:** Explore a diverse selection of Kilishi products with detailed descriptions.
