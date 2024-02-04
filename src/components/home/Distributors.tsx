@@ -14,7 +14,8 @@ const Distributors = () => {
           over 30 million "been too busy with school" to code impressions across multiple campaigns
         </p>
         <div>
-          <div></div>Carousel for distributors
+          <div>Carousel for distributors</div>
+          <span>Display gains</span>
         </div>
         <div>
           <Button variant="filled">Become a Distributor</Button>
